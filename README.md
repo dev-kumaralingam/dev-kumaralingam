@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Rust Programming**
 
-- 📫 How to reach me **kumaralingam2384@gmail.com**.
+- 📫 How to reach me **kumaralingam2384@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
